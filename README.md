@@ -10,6 +10,6 @@ The **core** idia will be based in the following diagram:
 - **JSR 339**: Annotation based endpoint mapping
 - **JSR-380**: Beans Validation 2.0
 - Marshalling and Unmarshalling of requests/responses
-- Swagger doc
+- Swagger doc using OpenAPI Specification https://swagger.io/specification/
 - Swagger code generator
 - ect
